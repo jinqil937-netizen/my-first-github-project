@@ -1,2 +1,21 @@
-# my-first-github-project
-My first GitHub learning project
+# My First GitHub Project
+
+这是我的第一个 GitHub 学习项目。
+
+## 我为什么创建这个仓库？
+
+我创建这个仓库，是为了开始学习 GitHub，并记录我从编程新手一步一步进步的过程。
+
+## 我现在正在学习
+
+- GitHub 是什么
+- Repository 仓库是什么
+- README 文件怎么写
+- Commit 是什么
+- 怎么管理自己的学习项目
+
+## 我的学习目标
+
+我的目标不是一下子变成高手，而是每天学一点、做一点、记录一点。
+
+这个仓库会用来保存我的 GitHub 和编程学习过程。
